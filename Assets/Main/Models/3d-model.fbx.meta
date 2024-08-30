@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: cbc434cef268b844fa6b4bc9a8bf4a93
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group_001
+    100004: Mario_001
+    100006: n1b0_001
+    100008: n2b1_001
+    100010: n3b2_001
+    100012: n4b3_001
+    100014: n5b4_001
+    100016: n6b5_001
+    100018: n7b6_001
+    100020: n8b7_001
+    400000: //RootNode
+    400002: Group_001
+    400004: Mario_001
+    400006: n1b0_001
+    400008: n2b1_001
+    400010: n3b2_001
+    400012: n4b3_001
+    400014: n5b4_001
+    400016: n6b5_001
+    400018: n7b6_001
+    400020: n8b7_001
+    2100000: No Name
+    2100002: dbl_Mario_001
+    2100004: dbl_Mario_002
+    2100006: dbl_Mario_003
+    2100008: dbl_Mario_004
+    2300000: Group_001
+    2300002: Mario_001
+    2300004: n1b0_001
+    2300006: n2b1_001
+    2300008: n3b2_001
+    2300010: n4b3_001
+    2300012: n5b4_001
+    2300014: n6b5_001
+    2300016: n7b6_001
+    2300018: n8b7_001
+    3300000: Group_001
+    3300002: Mario_001
+    3300004: n1b0_001
+    3300006: n2b1_001
+    3300008: n3b2_001
+    3300010: n4b3_001
+    3300012: n5b4_001
+    3300014: n6b5_001
+    3300016: n7b6_001
+    3300018: n8b7_001
+    4300000: n2b1_001
+    4300002: n6b5_001
+    4300004: n3b2_001
+    4300006: n7b6_001
+    4300008: n4b3_001
+    4300010: n8b7_001
+    4300012: n5b4_001
+    4300014: n1b0_001
+    4300016: Mario_001
+    4300018: Group_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 81dfb2535483ef94787429170d191acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Mario_001
+    second: {fileID: 2100000, guid: fcf13efce73d00a46bb743b3b0752b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Mario_002
+    second: {fileID: 2100000, guid: 15524a0efc25e044084101160548c041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Mario_003
+    second: {fileID: 2100000, guid: 36bbe16e0138d3140a883e414943e350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Mario_004
+    second: {fileID: 2100000, guid: 7063127a23e00e3469c04c8bec33fe65, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

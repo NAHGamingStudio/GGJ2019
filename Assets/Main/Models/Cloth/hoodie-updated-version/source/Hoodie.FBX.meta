@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 660c0778bfc95b643a2a61b24a09b17a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hoodie 1
+    100004: Hoodie 10
+    100006: Hoodie 11
+    100008: Hoodie 12
+    100010: Hoodie 13
+    100012: Hoodie 14
+    100014: Hoodie 2
+    100016: Hoodie 3
+    100018: Hoodie 4
+    100020: Hoodie 5
+    100022: Hoodie 6
+    100024: Hoodie 7
+    100026: Hoodie 8
+    100028: Hoodie 9
+    100030: zipper
+    400000: //RootNode
+    400002: Hoodie 1
+    400004: Hoodie 10
+    400006: Hoodie 11
+    400008: Hoodie 12
+    400010: Hoodie 13
+    400012: Hoodie 14
+    400014: Hoodie 2
+    400016: Hoodie 3
+    400018: Hoodie 4
+    400020: Hoodie 5
+    400022: Hoodie 6
+    400024: Hoodie 7
+    400026: Hoodie 8
+    400028: Hoodie 9
+    400030: zipper
+    2100000: Material3754
+    2100002: Material3748
+    2100004: Material3758
+    2300000: Hoodie 1
+    2300002: Hoodie 10
+    2300004: Hoodie 11
+    2300006: Hoodie 12
+    2300008: Hoodie 13
+    2300010: Hoodie 14
+    2300012: Hoodie 2
+    2300014: Hoodie 3
+    2300016: Hoodie 4
+    2300018: Hoodie 5
+    2300020: Hoodie 6
+    2300022: Hoodie 7
+    2300024: Hoodie 8
+    2300026: Hoodie 9
+    2300028: zipper
+    3300000: Hoodie 1
+    3300002: Hoodie 10
+    3300004: Hoodie 11
+    3300006: Hoodie 12
+    3300008: Hoodie 13
+    3300010: Hoodie 14
+    3300012: Hoodie 2
+    3300014: Hoodie 3
+    3300016: Hoodie 4
+    3300018: Hoodie 5
+    3300020: Hoodie 6
+    3300022: Hoodie 7
+    3300024: Hoodie 8
+    3300026: Hoodie 9
+    3300028: zipper
+    4300000: zipper
+    4300002: Hoodie
+    4300004: Hoodie
+    4300006: Hoodie
+    4300008: Hoodie
+    4300010: Hoodie
+    4300012: Hoodie
+    4300014: Hoodie
+    4300016: Hoodie
+    4300018: Hoodie
+    4300020: Hoodie
+    4300022: Hoodie
+    4300024: Hoodie
+    4300026: Hoodie
+    4300028: Hoodie
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

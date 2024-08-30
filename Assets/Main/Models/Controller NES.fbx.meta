@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: de459abb97ea88b4cb54aa9d0694fce9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cerchio
+    100002: //RootNode
+    100004: Spina
+    100006: Spline
+    100008: Sweep_NURBS
+    100010: Tappo_1
+    100012: Tappo_2
+    100014: Telecomando
+    400000: Cerchio
+    400002: //RootNode
+    400004: Spina
+    400006: Spline
+    400008: Sweep_NURBS
+    400010: Tappo_1
+    400012: Tappo_2
+    400014: Telecomando
+    2100000: Nuovo
+    2100002: No Name
+    2100004: Testa Cavo
+    2100006: Controller
+    2300000: Spina
+    2300002: Sweep_NURBS
+    2300004: Tappo_1
+    2300006: Tappo_2
+    2300008: Telecomando
+    3300000: Spina
+    3300002: Sweep_NURBS
+    3300004: Tappo_1
+    3300006: Tappo_2
+    3300008: Telecomando
+    4300000: Sweep_NURBS
+    4300002: Tappo_1
+    4300004: Tappo_2
+    4300006: Spina
+    4300008: Telecomando
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Controller
+    second: {fileID: 2100000, guid: ecb091a1efcf3c64f968fe196d76f4f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: f81759df3d2505c47b17574e62fa0946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuovo
+    second: {fileID: 2100000, guid: 64723610ce2a04d428ea9fbe9320e1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Testa Cavo
+    second: {fileID: 2100000, guid: 1323102d24ab3824fb5c9283b25c99ff, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cavo
+    second: {fileID: 2800000, guid: 29f1cb58f87f42048a35bd9ae8c12833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Controller_Colore
+    second: {fileID: 2800000, guid: 98bd4733479cd1e49b0927155822ead7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Testa Cavo_Colore
+    second: {fileID: 2800000, guid: 60c1f019772a8b74a853e644d049b171, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

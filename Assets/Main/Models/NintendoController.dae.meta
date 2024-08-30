@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 4e369285049eacc4a8cbff8157047ccc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: g part_00_low
+    100002: g part_01_low
+    100004: g part_02_low
+    100006: g part_03_low
+    100008: g part_04_low
+    100010: g part_06_low
+    100012: g part_07_low
+    100014: g part_08_low
+    100016: g part_09_low
+    100018: g part_10_low
+    100020: g part_11_low
+    100022: g part_12_low
+    100024: g part_13_low
+    100026: //RootNode
+    400000: g part_00_low
+    400002: g part_01_low
+    400004: g part_02_low
+    400006: g part_03_low
+    400008: g part_04_low
+    400010: g part_06_low
+    400012: g part_07_low
+    400014: g part_08_low
+    400016: g part_09_low
+    400018: g part_10_low
+    400020: g part_11_low
+    400022: g part_12_low
+    400024: g part_13_low
+    400026: //RootNode
+    2100000: DefaultMaterial
+    2300000: g part_00_low
+    2300002: g part_01_low
+    2300004: g part_02_low
+    2300006: g part_03_low
+    2300008: g part_04_low
+    2300010: g part_06_low
+    2300012: g part_07_low
+    2300014: g part_08_low
+    2300016: g part_09_low
+    2300018: g part_10_low
+    2300020: g part_11_low
+    2300022: g part_12_low
+    2300024: g part_13_low
+    3300000: g part_00_low
+    3300002: g part_01_low
+    3300004: g part_02_low
+    3300006: g part_03_low
+    3300008: g part_04_low
+    3300010: g part_06_low
+    3300012: g part_07_low
+    3300014: g part_08_low
+    3300016: g part_09_low
+    3300018: g part_10_low
+    3300020: g part_11_low
+    3300022: g part_12_low
+    3300024: g part_13_low
+    4300000: g part_00_low
+    4300002: g part_03_low
+    4300004: g part_02_low
+    4300006: g part_04_low
+    4300008: g part_06_low
+    4300010: g part_01_low
+    4300012: g part_07_low
+    4300014: g part_08_low
+    4300016: g part_09_low
+    4300018: g part_10_low
+    4300020: g part_11_low
+    4300022: g part_12_low
+    4300024: g part_13_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial
+    second: {fileID: 2100000, guid: 5532720830ac9f64b985155c009b849f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
